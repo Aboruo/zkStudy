@@ -16,7 +16,7 @@
     <fastjson.version>1.2.37</fastjson.version>
     <disruptor.version>3.3.5</disruptor.version>
     <slf4j-log4j12.version>1.7.25</slf4j-log4j12.version>
-    <zookeeper.version>3.4.10</zookeeper.version>
+    <zookeeper.version>3.4.14</zookeeper.version>
     <curator-framework.version>4.0.0</curator-framework.version>
   </properties>
 
