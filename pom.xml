@@ -12,7 +12,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <junit.version>4.11</junit.version>
-    <mysql.version>5.1.39</mysql.version>
+    <mysql.version>8.0.28</mysql.version>
     <fastjson.version>1.2.37</fastjson.version>
     <disruptor.version>3.3.5</disruptor.version>
     <slf4j-log4j12.version>1.7.25</slf4j-log4j12.version>
